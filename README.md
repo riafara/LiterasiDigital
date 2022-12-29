@@ -1,2 +1,0 @@
-# LiterasiDigital
- Landing Page
